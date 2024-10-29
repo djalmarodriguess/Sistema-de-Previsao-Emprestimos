@@ -63,7 +63,9 @@ A Gradio interface was developed for interactive loan eligibility predictions. U
 - **Loan Propensity Display:** Outputs the probability of loan approval in a user-friendly interface.
 
 
-![Design sem nome](https://github.com/user-attachments/assets/4350c6b3-8a29-4462-8d49-968cdbe21d54)
+https://github.com/user-attachments/assets/0973b88c-2ffe-40e4-bd7c-3e7e93026320
+
+
 
 ---
 
