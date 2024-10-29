@@ -1,5 +1,7 @@
 # Loan Approval Prediction
 
+![image](https://github.com/user-attachments/assets/2c7971f0-5c25-4144-8c7e-fdd87b0d59d1)
+
 ## Project Overview
 This project focuses on predicting an applicant’s eligibility for a loan based on various personal and financial factors such as income, education, work experience, previous loans, and more. The goal is to develop a machine learning model that classifies applicants as eligible or ineligible for loan approval.
 
